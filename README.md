@@ -1,8 +1,8 @@
-# ☕ Qspider Java Learning Exercises
+# Java Learning Exercises
 
 A collection of Java programs written during my training at **Qspider**, covering core Java concepts from basics to advanced topics.
 
-## 📚 Topics Covered
+## Topics Covered
 
 | Topic | Description |
 |-------|-------------|
@@ -18,6 +18,6 @@ A collection of Java programs written during my training at **Qspider**, coverin
 | **toString Method** | Overriding toString() |
 | **Library Management System** | Mini project |
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language:** Java
 - **IDE:** VS Code / Eclipse
